@@ -6,7 +6,7 @@
 
 🎓 I’m a **second-year Computer Science and Business Systems** student  
 💡 Passionate about **learning**, **building**, **front-end developer** and **ethical hacking** (yep, I like poking things… safely!)  
-🌱 Currently leveling up in **C**, **C++**, **HTML**, and cyber security fundamentals  
+🌱 Currently leveling up in **C**, **Java**, **HTML**, and cyber security fundamentals  
 🎯 Always ready to explore something new and stay curious
 
 ---
